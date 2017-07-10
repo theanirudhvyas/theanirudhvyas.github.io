@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automating Project creation
+title: Automating Project Creation in Ruby
 ---
 
 <div class="message">
