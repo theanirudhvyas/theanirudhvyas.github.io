@@ -10,7 +10,7 @@ If you reflexively answered yes or never gave it a thought, you will learn somet
 How often do we question our assumptions? And have you ever noticed how ferociously we protect them from criticism and scrutiny? So this topic came up in a discussion yesterday and I fought tooth and nail claiming that Ruby IS an Interpreted Language but alas as such discussions go, I was wrong. Now let me enlighten you.
 
 {% raw %}
-<iframe src="https://giphy.com/embed/gw3zMXiPDkOyVBsc" width="480" height="365" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sting-wresting-sprite-commercial-gw3zMXiPDkOyVBsc">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/gw3zMXiPDkOyVBsc" width="240" height="183" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sting-wresting-sprite-commercial-gw3zMXiPDkOyVBsc">via GIPHY</a></p>
 {% endraw %}
 
 To answer the question you first need to define what an interpreted language is? And for that matter what is a compiled language?
