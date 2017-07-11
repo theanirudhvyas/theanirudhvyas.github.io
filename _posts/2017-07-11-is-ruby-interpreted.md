@@ -9,6 +9,10 @@ If you reflexively answered yes or never gave it a thought, you will learn somet
 
 How often do we question our assumptions? And have you ever noticed how ferociously we protect them from criticism and scrutiny? So this topic came up in a discussion yesterday and I fought tooth and nail claiming that Ruby IS an Interpreted Language but alas as such discussions go, I was wrong. Now let me enlighten you.
 
+{% raw %}
+<iframe src="https://giphy.com/embed/gw3zMXiPDkOyVBsc" width="480" height="365" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sting-wresting-sprite-commercial-gw3zMXiPDkOyVBsc">via GIPHY</a></p>
+{% endraw %}
+
 To answer the question you first need to define what an interpreted language is? And for that matter what is a compiled language?
 Well first, **A Language is not interpreted or compiled, its implementation is.** Now that we have it out of the way, lets proceed:
 - In a compiled implementation, the original program is translated into native machine instructions, which are executed directly by the hardware.
@@ -16,9 +20,9 @@ Well first, **A Language is not interpreted or compiled, its implementation is.*
 
 So basically if a language can be run line by line it is an interpreted implementation of that language.
 
-If you have come this far and still are unsure, let me explain with an example.
+If you have come this far and are still unsure, let me explain with an example.
 
-So **Ruby is both interpreted and compiled**
+**Ruby is both interpreted and compiled**
 - The MRI implementation (Matz's Ruby Interpreter) which is arguably the most popular implementation is an interpreted one.
 - However other popular implementations like JRuby and Rubinius are compiled implementations and support using a compiler like C or Java.
 
