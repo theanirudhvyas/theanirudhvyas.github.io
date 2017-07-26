@@ -1,6 +1,7 @@
 ---
 title : Is Ruby an Interpreted Language?
 layout : post
+categories: ruby
 ---
 
 <div class="message">

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automating Project Creation in Ruby
+categories: ruby
 ---
 
 <div class="message">

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CHAOS MONKEY - Lessons learnt from Netflix
+categories: technical, advice
 ---
 
 <cite> “Named must your fear be before banish it you can.”

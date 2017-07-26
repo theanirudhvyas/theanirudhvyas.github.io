@@ -1,6 +1,7 @@
 ---
 title : It is Okay to Make Mistakes!
 layout : post
+categories: advice, non-technical
 ---
 
 For the longest time I remember, I have been terrified of making mistakes, or at least that is what I thought what my fear was. I would use perfection as a crutch to put off things and procrastinate. For instance, I have been putting off starting a blog for a long long time, justifying it with the excuse that I am not good at writing or I do not have the content to start a blog. And I emphasize on the word excuse as these are illogical justifications for my laziness and the fear of the unknown.
