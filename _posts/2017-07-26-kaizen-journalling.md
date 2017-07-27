@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journalling and Kaizen
+title: Journaling and Kaizen
 ---
 
 I have been reading a lot of self-help books lately and with every new concept I come across and every new book I pick up I feel inspired and somehow empowered with all this knowledge. But when I look closely and analyze logically, I haven't implemented a single thing from any book and so the effort of reading all those books returned zero value.
