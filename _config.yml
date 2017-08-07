@@ -30,6 +30,10 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# Google Services
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
