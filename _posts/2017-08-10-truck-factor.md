@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The truck Factor
+title: The Truck Factor
 ---
 <div class='message'>
 How many people can you afford to be hit by the truck
