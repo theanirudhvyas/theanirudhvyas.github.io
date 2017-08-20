@@ -3,7 +3,7 @@ layout: post
 title: The Truck Factor
 ---
 <div class='message'>
-How many people can you afford to be hit by the truck
+How many people can you afford to get hit by the truck
 </div>
 
 The **Truck Factor**, also referred to as the bus factor, is the measure of risk or danger your team is under due to the absence of one or more members. More explicitly, truck factor is the answer to the question **"How many people from your team have to be hit by a truck before your project comes to a halt?"**.
