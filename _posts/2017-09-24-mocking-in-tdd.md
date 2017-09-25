@@ -81,7 +81,7 @@ responses are either defined in the test or are decided by some logic.
 So now with the magical powers of mocks, you could individually test
 your methods. Now, I do not mean that you should not test these
 interactions at all and only depend on mocks, the tests I am
-talking about are unit tests and integration tests are what handle these
+talking about are unit tests, and integration tests are what handle these
 interactions with databases and different parts of the project.
 
 Also do note that the code written above is just pseudo-code and this is
