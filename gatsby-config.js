@@ -6,6 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
+      siteTitle: `~/`,
     siteTitleAlt: `Anirudh Vyas`,
   },
   plugins: [
@@ -15,10 +16,6 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `Blog`,
-            slug: `/blog`,
-          },
-          {
             title: `About`,
             slug: `/about`,
           },
@@ -26,11 +23,11 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+              url: `https://twitter.com/Anirudh2403`,
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            name: `Github`,
+            url: `https://www.github.com/theanirudhvyas`,
           },
         ],
       },
