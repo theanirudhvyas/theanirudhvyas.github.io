@@ -14,32 +14,20 @@ This book was recommended to me by my CTO and I now understand how these simple 
 
 
 ## My Notes
-The goal of an Engineer:
+**The goal of an Engineer:** To ship value and to solve problems.
 
-- To ship the most value in the least effort and amount of time
-- To do the above regularly and in a sustainable way
+We default to code and software as our tools for shipping value as they provide the most leverage. You write something once and it works for years and can be replicated with no costs across all similar problems. But often we get blinded by our comfort zone and daily distractions and start ignoring the problems that give us much more leverage. We need to build frameworks to help us identify such issues and help us execute on them. 
 
-Successful engineers ignore the bureaucracy that values low leverage tasks and identify the 1/2 things that make the most business impact.
+**Successful Engineers** ignore the bureaucracy that values low leverage tasks and identify the 1 or 2 things that make the most business impact.
 
-Good Questions to ask about your product
 
-- Is my product successful?
-- If not, what are the 1 or 2 things that will make it so.
+Always ask why before how → **~~how~~ why should we do it?**  Instead of trying to solve the impossible problems, try to question the assumptions and work around the problems. 
 
-Always ask why before how → ~~how~~  why should we do it?
-
-Instead of trying to solve the impossible problems, try to question the assumptions and work around the problems. 
-
-Engineering is much more about leverage than programming ability
-
-Leverage is the yardstick for measuring effectiveness
-
-Leverage = Impact Produced/Time Invested.   → ROI
-
-Similarly, use the Pareto Principle, what 20% of work produces 80% of impact
+Engineering is much more about leverage than programming ability.  
+Leverage is the yardstick for measuring effectiveness. `Leverage = Impact Produced/Time Invested.   → ROI`  
+Pareto Principle, what 20% of work produces 80% of impact can be used to the same effect.
 
 Questions to ask to increase leverage:
-
 - How can I complete this activity in a shorter amount of time?
 - How can I increase value produced by this activity?
 - Is there something else that would produce more value?
