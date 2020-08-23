@@ -1,7 +1,7 @@
 ---
 title: The Effective Engineer - By Edmond Lau
 slug: "/blog/book/effective-eng"
-date: 2020-08-17
+date: 2020-08-24
 tags:
   - Book Notes
   - Engineering
