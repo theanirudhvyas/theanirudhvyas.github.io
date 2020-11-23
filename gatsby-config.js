@@ -1,4 +1,4 @@
-/*jshint esversion: 6 */ 
+/*jshint esversion: 6 */
 require(`dotenv`).config({
     path: `.env`,
 });
@@ -35,6 +35,10 @@ module.exports = {
                     {
                         name: `Github`,
                         url: `https://www.github.com/theanirudhvyas`,
+                    },
+                    {
+                        name: `Resume`,
+                        url: `https://www.notion.so/theanirudhvyas/Anirudh-Vyas-05d224845ec3413d9bfb6c4033f86913`,
                     },
                 ],
             },
