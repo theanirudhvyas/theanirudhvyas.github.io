@@ -3,6 +3,7 @@
 <url> <loc>https://www.vyas.xyz/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vyas.xyz/blog/systemize-seinfeld</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/blog/november-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/blog/emacsd</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/blog/band-wagon</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -15,8 +16,10 @@
 <url> <loc>https://www.vyas.xyz/tags/book-notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/engineering</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/goals</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vyas.xyz/tags/quotes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/accountability</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/editor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vyas.xyz/tags/habits</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/journal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/resilience</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/ruby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
