@@ -3,6 +3,8 @@
 <url> <loc>https://www.vyas.xyz/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vyas.xyz/blog/goals/february-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vyas.xyz/blog/embed-video</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/blog/systemize-seinfeld</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/blog/november-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/blog/emacsd</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -19,10 +21,12 @@
 <url> <loc>https://www.vyas.xyz/tags/quotes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/accountability</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/editor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vyas.xyz/tags/frontend</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/habits</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/journal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/resilience</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/ruby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/spacemacs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vyas.xyz/tags/tech</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.vyas.xyz/tags/tools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
